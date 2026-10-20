@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/piccolo-orm/pymdb/commit/a32f91f8ab99147c0d2fd848b5f393af309de078",
       "git:hexsha": "a32f91f8ab99147c0d2fd848b5f393af309de078",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T22:21:49.932199+00:00"
     }
   ]
 }
